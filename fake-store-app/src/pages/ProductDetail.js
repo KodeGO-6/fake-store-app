@@ -2,6 +2,7 @@ import '../App.css';
 import React from 'react'
 import { useState, useEffect } from 'react';
 import { useParams } from 'react-router-dom';
+import {FaShoppingCart} from 'react-icons/fa'
 import axios from 'axios';
 
 const ProductDetail = () => {
@@ -34,7 +35,7 @@ const ProductDetail = () => {
       <h2>$ {product.price}</h2>
       <small>{product.category}</small>
       <p>{product.description}</p>
-      
+      <button className='btn'><FaShoppingCart /> Cart</button>
     </div>
   )
 }

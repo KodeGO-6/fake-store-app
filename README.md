@@ -42,5 +42,12 @@ password:   "83r5^_"
 - [ ] Cart checkout
 - [ ] Admin Dashboard
 
+---
+Please create a more decent design for this app, try to focus for the mobile design first if you can.
+
+Edit the `App.css` in the ***src*** directory if you want to change the stylings.
+
+You can add additional `classNames` for the html element by editing the elements inside the documents in the ***components*** and ***pages*** directory.
+
 
 
