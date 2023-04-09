@@ -35,10 +35,10 @@ password:   "83r5^_"
 - [x] Display all products
 - [x] User login
 - [x] View product
-- [ ] Add to cart
+- [x] Add to cart
 - [ ] Search Product
 - [ ] Sort Product by Category
-- [ ] Add to wishlist
+- [x] Add to wishlist
 - [ ] Cart checkout
 - [ ] Admin Dashboard
 
