@@ -36,8 +36,8 @@ password:   "83r5^_"
 - [x] User login
 - [x] View product
 - [x] Add to cart
-- [ ] Search Product
-- [ ] Sort Product by Category
+- [x] Search Product
+- [x] Sort Product by Category
 - [x] Add to wishlist
 - [ ] Cart checkout
 - [ ] Admin Dashboard
@@ -48,6 +48,9 @@ Please create a more decent design for this app, try to focus for the mobile des
 Edit the `App.css` in the ***src*** directory if you want to change the stylings.
 
 You can add additional `classNames` for the html element by editing the elements inside the documents in the ***components*** and ***pages*** directory.
+
+---
+Gonna compile all this features in a single app
 
 
 
